@@ -4,7 +4,7 @@ I'm a Senior Software Engineer with 7+ years of experience working with software
 
 - 🔭 I’m currently working on our next-gen Data Platform using [Druid], [Doris] on [Kubernetes].
 - 💼 I'm currently employeed by Shopee Singapore.
-- 💬 Ask me about [Druid], [Doris], [Kubernetes], [Linux].
+- 💬 Ask me about [Druid], [Doris] and [Kubernetes].
 - 📫 How to reach me: [LinkedIn] or yuanlihan0@gmail.com.
 
 
