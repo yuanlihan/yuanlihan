@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer with 6+ years of experience working with software development and big data technologies. I'm passionate about building scalable and reliable data platforms that enable organizations to make data-driven decisions.
+I'm a Senior Software Engineer with 7+ years of experience working with software development and big data technologies. I'm passionate about building scalable and reliable data platforms that enable organizations to make data-driven decisions.
 
 - 🔭 I’m currently working on our next-gen Data Platform using [Druid], [Doris] on [Kubernetes].
-- 💼 I'm currently employeed by Shopee in Singapore.
-- 📚 I’m currently reading [Designing Data-Intensive Applications by Martin Kleppman].
+- 💼 I'm currently employeed by Shopee Singapore.
 - 💬 Ask me about [Druid], [Doris], [Kubernetes], [Linux].
 - 📫 How to reach me: [LinkedIn] or yuanlihan0@gmail.com.
 
